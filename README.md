@@ -11,7 +11,9 @@
 <li>Semantic HTML</li>
 <li>CSS</li>
 <li>Sass (SCSS)</li>
+<li>Bootstrap</li>
 <li>JavaScript</li>
+<li>React</li>
 <li>React Native</li>
 <li>MongoDB</li>
 <li>Express</li>
@@ -24,8 +26,6 @@
 <li>VS Code</li>
 <li>Node</li>
 <li>iTerm</li>
-<li>Bootstrap</li>
-<li>React</li>
 <li>Figma</li>
 <li>Python IDLE</li>
 <li>Filezilla FTP</li>
