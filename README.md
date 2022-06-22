@@ -1,4 +1,4 @@
-![logo](https://charlesmiller.dev/assets/introLogo.png)
+![logo](https://charlesmiller.dev/assets/introLogoLight.png)
 
 ### :open_file_folder: Current Projects
 * Frontendmentor.io challenges
