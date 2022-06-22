@@ -39,6 +39,6 @@
 
 ## :iphone: How to contact me
 
-:email: [charles@charlesmiller.dev](mailto:charles@charlesmiller.dev)<br />
-:computer: [https://charlesmiller.dev](https://charlesmiller.dev)<br />
-:page_facing_up: [LinkedIn](https://www.linkedin.com/in/charlesmiller0412/)
+-email: [charles@charlesmiller.dev](mailto:charles@charlesmiller.dev)<br /><br />
+-website: [https://charlesmiller.dev](https://charlesmiller.dev)<br /><br />
+-LinkedIn: [https://www.linkedin.com/in/charlesmiller0412/](https://www.linkedin.com/in/charlesmiller0412/)
