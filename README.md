@@ -88,7 +88,7 @@
 <li><a href="https://github.com/charlesmiller0412/charlesmiller.dev-v5">Version 5</a></li>
 <li><a href="https://github.com/charlesmiller0412/charlesmiller.dev-v6">Version 6</a></li>
 </ul>
-</details><br />
+</details>
 
 ## :iphone: How to contact me
 
