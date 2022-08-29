@@ -91,9 +91,9 @@
 <li>XD</li>
 </ul></td>
 </table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesmiller0412&langs_count=10&layout=compact&border_radius=10&bg_color=efefef&text_color=384b52&title_color=12252b">
+<img style="align: left; width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesmiller0412&langs_count=10&layout=compact&border_radius=10&bg_color=efefef&text_color=384b52&title_color=12252b">
 
-<img src="https://github-readme-stats.vercel.app/api?username=charlesmiller0412&show_icons=true&include_all_commits=true&bg_color=efefef&title_color=12252b&text_color=384b52&border_radius=10">
+<img style="align: right; width: 45%" src="https://github-readme-stats.vercel.app/api?username=charlesmiller0412&show_icons=true&include_all_commits=true&bg_color=efefef&title_color=12252b&text_color=384b52&border_radius=10">
 
 
 ## :iphone: How to contact me
