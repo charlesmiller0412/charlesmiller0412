@@ -88,4 +88,4 @@
 <a href="https://www.leetcode.com/charlesmiller0412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="charlesmiller0412" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesmiller0412&label=Profile%20views&color=0e75b6&style=flat" alt="charlesmiller0412" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=charlesmiller0412&label=Profile%20views&color=0e75b6&style=flat" alt="charlesmiller0412" /></p>
