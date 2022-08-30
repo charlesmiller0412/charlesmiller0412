@@ -72,13 +72,10 @@
 </ul>
 </details>
 
-<picture>
 <img align="left" width="47%" height="300px" src="https://github-stats-alpha.vercel.app/api?username=charlesmiller0412&cc=11252b&tc=efefef&ic=7eaecd&bc=efefef">
-</picture>
-<picture>
 <img align="right" width="47%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesmiller0412&langs_count=10&layout=compact&border_radius=5&bg_color=efefef&text_color=384b52&title_color=12252b" />
-</picture>
-## :iphone: How to contact me
+
+  ## :iphone: How to contact me
 -email: [charles@charlesmiller.dev](mailto:charles@charlesmiller.dev)<br />
 -website: [https://charlesmiller.dev](https://charlesmiller.dev)<br />
 -discord: [https://discordapp.com/users/2807/](https://discordapp.com/users/2807/)
