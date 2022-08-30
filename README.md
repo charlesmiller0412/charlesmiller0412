@@ -3,12 +3,12 @@
 
 ### 📚 What I'm Learning
 <div align="center">
-<picture><img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,jquery,ts,react,redux,next,nodejs,mongo,express,php,python,java,mysql,bash,git,markdown&perline=10&theme=light" /></div></picture><br />
+<picture><img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,jquery,ts,react,redux,next,nodejs,mongo,express,php,python,java,mysql,bash,git,markdown&perline=10" /></div></picture><br />
 
 ### 🧰 Tools I Use
 <div align="center">
 <picture>
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,codepen,aws,figma,photoshop,illustrator,xd,github,heroku&perline=10&theme=light" /></picture></div><br />
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,codepen,aws,figma,photoshop,illustrator,xd,github,heroku&perline=10" /></picture></div><br />
 
 ### :open_file_folder: Current Projects
 
